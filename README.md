@@ -1,22 +1,22 @@
 I took a dataset 4 csv files from online sources namely traffic.csv, brand.csv, reviews.csv, finance.csv.  
 Finance CSV contains
-product_id
-listing_price
-sale_price
-discount
+product_id,
+listing_price,
+sale_price,
+discount,
 revenue
 
 Brands CSV contains
-product_id
+product_id,
 brand
 
 Traffic CSV contains
-product_id
+product_id,
 last_visited
 
 Reviews CSV contains
-product_id
-rating
+product_id,
+rating,
 reviews
 these columns.
 
